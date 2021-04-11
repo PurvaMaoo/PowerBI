@@ -1,2 +1,2 @@
 # PowerBI
-# Consists of all exercises from https://www.wiseowl.co.uk
+Consists of all exercises from https://www.wiseowl.co.uk
